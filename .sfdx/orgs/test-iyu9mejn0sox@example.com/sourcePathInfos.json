@@ -1,0 +1,101 @@
+[
+    [
+        "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1533931860633,
+            "changeTime": 1533931860633,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1533931860633,
+            "changeTime": 1533931860633,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1534180070299,
+            "changeTime": 1534180070299,
+            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665"
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1533931860634,
+            "changeTime": 1533931860634,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer",
+        {
+            "state": "n",
+            "sourcePath": "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1534176000429,
+            "changeTime": 1534176000429,
+            "contentHash": "a7d454fe909d506d8431a20d8d3eace6ce89fd91",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 348,
+            "modifiedTime": 1534180070300,
+            "changeTime": 1534180070300,
+            "contentHash": "72337cd82ad265b161bbdb22c871eb97814e1b80"
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/danielkim/vlocity/sfdx_projects/MutualFundExplorer/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1534180070300,
+            "changeTime": 1534180070300,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+        }
+    ]
+]
